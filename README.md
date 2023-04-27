@@ -22,7 +22,7 @@ Vrinda store wants to create an annual sales report for 2022. So that, Vrinda ca
 
 5) List top 5 states contributing to the sales?
 
-![image](https://user-images.githubusercontent.com/77045501/234805722-4a42219d-ebb1-4985-8832-939c8ff1dd73.png)
+![image](https://user-images.githubusercontent.com/77045501/234807506-7ed773a5-62e7-4a74-b3a4-45e301b1aabe.png)
 
 
 6) Relation between age and gender based on number of sales.
