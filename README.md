@@ -5,18 +5,28 @@ Vrinda store wants to create an annual sales report for 2022. So that, Vrinda ca
 
 1) Compare the sales and orders using single chart.
 
-![image](https://user-images.githubusercontent.com/77045501/234804813-7033c78a-1798-436f-8a72-0477ca839803.png)
-
 2) Which month got the highest sales and orders?
+![image](https://user-images.githubusercontent.com/77045501/234806456-1dda4e04-b83b-485e-b496-33c71d9ee93f.png)
 
-3) Who purchased more- men or women in 2022?
+
+3) Who purchased more - men or women in 2022?
+![image](https://user-images.githubusercontent.com/77045501/234805723-c2784226-a989-42c0-b1ea-d57e7181c854.png)
+
 
 4) What are different order status in 2022?
+![image](https://user-images.githubusercontent.com/77045501/234806260-e6bf26f5-dc6d-4c2f-afa0-1f363a852954.png)
 
-5) List top 10 states contributing to the sales?
+
+5) List top 5 states contributing to the sales?
+![image](https://user-images.githubusercontent.com/77045501/234805722-4a42219d-ebb1-4985-8832-939c8ff1dd73.png)
+
 
 6) Relation between age and gender based on number of sales.
+![image](https://user-images.githubusercontent.com/77045501/234806339-09bc1f31-ada3-4185-95ef-bf3ac00cae20.png)
+
 
 7) Which channel is contributing to maximum sales?
+![image](https://user-images.githubusercontent.com/77045501/234806011-e970cf7b-9f85-4fb4-b7c8-39e051b65358.png)
 
-8) Highest selling category?, etc.
+
+
